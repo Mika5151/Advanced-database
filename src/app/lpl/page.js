@@ -84,9 +84,7 @@ export default function Page() {
                   </p>
                 </div>
                 <p className="mt-2">
-                  負責 XYZ Tech
-                  的產品開發，專注於前端技術，帶領團隊完成多個項目，
-                  並協助制定開發文件和技術標準。
+                  負責 吃飯
                 </p>
               </div>
             </div>
