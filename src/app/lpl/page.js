@@ -23,7 +23,9 @@ export default function Page() {
                   <li className="mb-2">React</li>
                   <li className="mb-2">Node.js</li>
                   <li className="mb-2">HTML/CSS</li>
-                  <li className="mb-2">Tailwind Css</li>
+                  <li className="mb-2">SQL</li>
+                  <li className="mb-2">Python</li>
+                  <li className="mb-2">C</li>
                 </ul>
               </div>
             </div>
@@ -33,11 +35,10 @@ export default function Page() {
               <h2 className="text-xl font-bold mb-4">About Me</h2>
               <p className="text-gray-700">
                 嗨！我是 李姵琳，就讀高科大資訊管理系大三
-              
-                Hashgreen Labs
                 
-                Electron、Qwik 和
-                Playwright，實現跨平台應用的無縫切換和測試自動化。具備領導開源項目的經驗，曾負責多個專案的開發和社群貢獻文件的制定。
+                我相信每一分努力都是未來成功的基石，因此我專注於每個細節，願意花時間準備和改進。我堅持不懈，因為我深知知識的累積不是一蹴而就，而是一步步的積累。我會繼續保持這樣的態度，迎接更多挑戰，並用堅定的信念去追求我的目標。
+
+
               </p>
 
               <h2 className="text-xl font-bold mt-6 mb-4">經驗</h2>
@@ -52,9 +53,8 @@ export default function Page() {
                   </p>
                 </div>
                 <p className="mt-2">
-                  擔任 CodeGreen
-                  的高級前端開發人員，主導混合型應用程式的開發，應用技術如
-                  Electron 和 Qwik， 以實現跨平台的無縫切換，並負責自動化測試。
+                  擔任
+                  高級前端開發吉祥物
                 </p>
               </div>
 
